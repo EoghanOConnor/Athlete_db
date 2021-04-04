@@ -19,6 +19,9 @@ image of main interface
 
 
 Dependancies:
+
 Apache derby https://db.apache.org/derby/derby_downloads.html
+
 Jdk 15: https://www.oracle.com/ie/java/technologies/javase-jdk15-downloads.html
+
 netbeans 12: https://netbeans.apache.org/download/nb120/nb120.html
