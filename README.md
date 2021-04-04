@@ -12,7 +12,8 @@ This reduces redundency in the database.
 
 image of main interface
 
-![image](https://user-images.githubusercontent.com/45408401/113517085-f3dd2200-9575-11eb-92c9-cda3b4077e46.png)
+![image](https://user-images.githubusercontent.com/45408401/113517227-867dc100-9576-11eb-8f4a-e8890264db72.png)
+
 
 
 
